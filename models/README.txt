@@ -1,0 +1,3 @@
+这个包中保存用于训练的模型，
+一般我们会不止构建一个model，可能构建多个model
+训练好的model将会在checkpoint中保存
